@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pig-Management-WebApp", "Pig-Management-WebApp\Pig-Management-WebApp.csproj", "{024C1861-D8D8-47FF-81BA-A167C3D9CFD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pigs-Mgt-Web", "Pigs-Mgt-Web\Pigs-Mgt-Web.csproj", "{18B71F32-39C5-435A-A787-681E648FA528}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{024C1861-D8D8-47FF-81BA-A167C3D9CFD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{024C1861-D8D8-47FF-81BA-A167C3D9CFD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{024C1861-D8D8-47FF-81BA-A167C3D9CFD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{024C1861-D8D8-47FF-81BA-A167C3D9CFD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B71F32-39C5-435A-A787-681E648FA528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B71F32-39C5-435A-A787-681E648FA528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B71F32-39C5-435A-A787-681E648FA528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B71F32-39C5-435A-A787-681E648FA528}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7073C5A8-CF85-4C5B-8A28-8AB72B0DB609}
+	EndGlobalSection
+EndGlobal
